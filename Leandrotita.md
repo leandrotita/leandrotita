@@ -11,7 +11,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=leandrotita&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=[leandrotita]&show_icons=true&theme=dracula)
 
 ## 📬 Como me encontrar
 - [**LinkedIn:**](https://www.linkedin.com/in/leandro-AP-pereira)
